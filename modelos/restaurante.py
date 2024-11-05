@@ -2,7 +2,7 @@ from modelos.avaliacao import Avaliacao
 
 class Restaurante:
     
-    '''Definição da classe Restaurante e suas definições.'''
+    '''Definição da classe Restaurante e suas atribuições'''
     
     restaurantes =[]
     
